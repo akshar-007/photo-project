@@ -1,0 +1,24 @@
+.top{
+  background-color: #61764B;
+  height: 120px;
+  width:auto;
+  text-align: center;
+  padding-top: 25px;
+}
+
+
+.middle{
+  text-align: center;
+}
+
+.bottom{
+  text-align: center;
+}
+
+.copy{
+  background-color: #61764B;
+  height: 120px;
+  width:auto;
+    text-align: center;
+    padding-top: 25px;
+}
